@@ -7,21 +7,21 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://openai.com/': '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',
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
+global.namabot = "Rann - MD"
+global.namaowner = "Rangga Prasetyo | Rangga Prasetyo"
 global.packname = namabot
 global.author = namaowner
-global.myweb = "https://s.id/zeeoneofc"
+global.myweb = "https://www.tiktok.com/@ryugaitachi"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
-global.pairingNumber = "" //pairing number to install bot 
+global.owner = ['6281332905229']
+global.pairingNumber = "6281332905229" //pairing number to install bot 
 global.sessionName = 'session'
-global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 50kb agar welcome nya gk lemot
+global.background = "https://telegra.ph/file/a018f5e970fdbf9ba7d3c.jpg" //maks size 50kb agar welcome nya gk lemot
 global.prefa = ['-_-']
 global.grup_only = false //bot hanya bisa di gunakan dalam grup jika true
 global.mess = {
